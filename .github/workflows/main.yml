@@ -1,0 +1,39 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # otomatis tiap jam 00:00 UTC
+  workflow_dispatch:       # bisa dijalankan manual juga
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Generate README
+        run: |
+          echo "# Hi there 👋" > README.md
+          echo "" >> README.md
+          echo "### ⚡ GitHub Stats" >> README.md
+          echo "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryosatria2105&show_icons=true&theme=tokyonight)" >> README.md
+          echo "" >> README.md
+          echo "### 🔥 Top Languages" >> README.md
+          echo "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosatria2105&layout=compact&theme=tokyonight)" >> README.md
+          echo "" >> README.md
+          echo "### 📈 GitHub Streak" >> README.md
+          echo "![GitHub Streak](https://streak-stats.demolab.com?user=ryosatria2105&theme=tokyonight)" >> README.md
+          echo "" >> README.md
+          echo "⏰ Last updated: $(date)" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Auto update README" || echo "No changes to commit"
+          git push
