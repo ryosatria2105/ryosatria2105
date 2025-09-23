@@ -6,10 +6,10 @@
 - ⚡ Sedang belajar web development dan ngulik teknologi baru  
 
 ---
-
 ## 🛠️ Core Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,postgres,figma,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,postgres&perline=4" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github&perline=4" />
   <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="48" height="48" alt="xampp"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="48" height="48" alt="sublime text"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="netbeans"/>
