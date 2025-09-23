@@ -1,26 +1,34 @@
+<h2>👋 Hey, Welcome to My GitHub!</h2>
 
-<h3>👤 About Me</h3>
+<h3>😎 About Me</h3>
 
-Halo! Aku **Ryo Satriagung Hidayat**, mahasiswa Sistem Informasi di UINSA Surabaya.  
-Lagi fokus explore dunia IT sambil ngulik project seru, dari coding kecil-kecilan sampai desain sistem.  
-Suka banget belajar hal baru, terutama yang bisa nyambung ke karier digital & teknologi 🚀.  
+✨ Name **Ryo Satriagung Hidayat**  
+🎓 Mahasiswa Sistem Informasi di UINSA Surabaya  
+💻 Like coding, desain, dan explore dunia IT  
+🚀 Lagi grow bareng project, belajar teknologi baru, dan bangun portofolio digital  
 
-<h2>🚀 Some Tools I Use & Learn</h2>
+---
 
-**Core Skills:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,php&perline=6)](https://skillicons.dev)  
+<h2>🛠️ Core Skills</h2>
+
+[![Core Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,php&perline=7)](https://skillicons.dev)  
 <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="48" height="48" alt="xampp"/>  
 
-**Currently Learning:**  
-[![Learning](https://skillicons.dev/icons?i=react,tailwind,docker,nodejs&perline=6)](https://skillicons.dev)
+---
 
+<h2>📚 Currently Learning</h2>
 
-<!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
+[![Learning](https://skillicons.dev/icons?i=react,tailwind,nodejs,docker&perline=6)](https://skillicons.dev)
+
+---
+
+<h2>🌐 Connect with Me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/ryo-satriagung-hidayat"><img src="https://img.shields.io/badge/LinkedIn-_.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Project-Management-_.svg?style=for-the-badge&logo=java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/System-Analyst-_.svg?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/System-Design-_.svg?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/ryo-satriagung-hidayat"><img src="https://img.shields.io/badge/LinkedIn-_.svg?style=for-the-badge&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Project_Management-_.svg?style=for-the-badge&color=blue"></a>
+  <a href="#"><img src="https://img.shields.io/badge/System_Analyst-_.svg?style=for-the-badge&color=green"></a>
+  <a href="#"><img src="https://img.shields.io/badge/System_Design-_.svg?style=for-the-badge&color=purple"></a>
 </p>
 
-![](https://img.shields.io/github/followers/RyoSatriagung?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/RyoSatriagung?style=for-the-badge&logo=github)  
+![](https://img.shields.io/github/followers/RyoSatriagung?style=for-the-badge&logo=github) 
+![GitHub User's stars](https://img.shields.io/github/stars/RyoSatriagung?style=for-the-badge&logo=github)  
