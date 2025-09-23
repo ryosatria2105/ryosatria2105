@@ -11,8 +11,11 @@
 
 <h2>🛠️ Core Skills</h2>
 
-[![Core Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,php&perline=7)](https://skillicons.dev)  
+[![Core Skills](https://skillicons.dev/icons?i=html,css,js,java,cpp,mysql,postgres,php,figma&perline=6)](https://skillicons.dev)  
 <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="48" height="48" alt="xampp"/>  
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="48" height="48" alt="sublime text"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="netbeans"/>  
+
 
 ---
 
