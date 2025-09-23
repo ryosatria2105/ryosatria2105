@@ -5,13 +5,15 @@ Halo! Aku **Ryo Satriagung Hidayat**, mahasiswa Sistem Informasi di UINSA Suraba
 Lagi fokus explore dunia IT sambil ngulik project seru, dari coding kecil-kecilan sampai desain sistem.  
 Suka banget belajar hal baru, terutama yang bisa nyambung ke karier digital & teknologi 🚀.  
 
+<h2>🚀 Some Tools I Use & Learn</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,sqlite,php&perline=6)](https://skillicons.dev)
+**Core Skills:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,php&perline=6)](https://skillicons.dev)  
+<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="48" height="48" alt="xampp"/>  
 
+**Currently Learning:**  
+[![Learning](https://skillicons.dev/icons?i=react,tailwind,docker,nodejs&perline=6)](https://skillicons.dev)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nestjs,cypress,docker,express,grafana,mysql,nextjs,nestjs,nginx,nodejs,postgres,postman,prisma,react,tailwind,vercel,webstorm&perline=6)](https://skillicons.dev)
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
