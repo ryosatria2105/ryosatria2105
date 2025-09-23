@@ -6,7 +6,8 @@ Lagi fokus explore dunia IT sambil ngulik project seru, dari coding kecil-kecila
 Suka banget belajar hal baru, terutama yang bisa nyambung ke karier digital & teknologi 🚀.  
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,sqlite,php&perline=6)](https://skillicons.dev)
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
