@@ -1,9 +1,5 @@
 # Hi there 👋, I'm Ryo  
 
-## 🚀 About Me  
-- 🎓 Mahasiswa Sistem Informasi | Front-End Developer Enthusiast  
-- 💻 Suka coding, desain, dan explore dunia IT  
-- ⚡ Sedang belajar web development dan ngulik teknologi baru  
 
 ---
 ## 🛠️ Core Skills  
