@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Ryo  
+### 👨‍🎓 Ryo Satriagung Hidayat  
+### 💻 Information System | UIN Sunan Ampel Surabaya
+
 
 
 ---
