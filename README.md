@@ -1,43 +1,56 @@
-### 👨‍🎓 Ryo Satriagung Hidayat  
-### 💻 Information System | UIN Sunan Ampel Surabaya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ryo%20Satriagung%20Hidayat&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Information%20System%20%7C%20UIN%20Sunan%20Ampel%20Surabaya&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&width=650&lines=Frontend+Web+Developer+%F0%9F%92%BB;Software+Engineering+Enthusiast+%E2%9A%99%EF%B8%8F;Information+System+Student+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
+<br/>
 
----
-## 🛠️ Core Skills  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,postgres&perline=4" />
-  <img src="https://skillicons.dev/icons?i=figma,git,github&perline=4" />
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="48" height="48" alt="xampp"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="48" height="48" alt="sublime text"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="netbeans"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryo-satriagung-hidayat)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryosatria2105@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryosatria__)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287870165060)
 
----
-
-## 📚 Currently Learning  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,php,react,tailwind,nextjs,nodejs,docker&perline=6" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ryosatria2105&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ryosatria2105?style=for-the-badge&logo=github&color=7c3aed&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/ryosatria2105?style=for-the-badge&logo=github&color=7c3aed&label=STARS)
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryosatria2105&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryosatria2105&layout=compact&theme=radical" alt="langs" height="150"/>
-</p>
+## 🧑‍💻 About Me
+
+```yaml
+name     : Ryo Satriagung Hidayat
+major    : Information System | UIN Sunan Ampel Surabaya
+focus    : Web Developer in Progress
+currently: Building projects & leveling up every day 🚀
+```
 
 ---
 
-## 🌐 Connect with Me  
-<p>
-  <a href="https://www.linkedin.com/in/ryo-satriagung-hidayat"><img src="https://img.shields.io/badge/LinkedIn-_.svg?style=for-the-badge&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>
-  <a href="mailto:ryosatriagung@gmail.com"><img src="https://img.shields.io/badge/Gmail-_.svg?style=for-the-badge&logo=gmail&color=D14836" alt="Gmail"></a>
-  <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-_.svg?style=for-the-badge&logo=instagram&color=E4405F" alt="Instagram"></a>
-  <a href="https://wa.me/628xxxxxx"><img src="https://img.shields.io/badge/WhatsApp-_.svg?style=for-the-badge&logo=whatsapp&color=25D366" alt="WhatsApp"></a>
-</p>
+## 🛠️ Core Skills
 
-![](https://img.shields.io/github/followers/ryosatria2105?style=for-the-badge&logo=github) 
-![](https://img.shields.io/github/stars/ryosatria2105?style=for-the-badge&logo=github)  
-![](https://komarev.com/ghpvc/?username=ryosatria2105&color=blue&style=for-the-badge&label=VISITORS)
+<img src="https://skillicons.dev/icons?i=html,css,mysql,postgres,figma,git,github,vscode,notion,androidstudio&perline=9" />
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+
+---
+
+## 📚 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=js,java,cpp,php,react,tailwind,nextjs,nodejs,docker&perline=9" />
+
+> *"The best time to learn was yesterday. The next best time is now."*
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=ryosatria2105&theme=tokyonight&hide_border=true" height="165"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" width="100%"/>
