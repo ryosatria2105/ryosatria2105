@@ -24,9 +24,12 @@ name     : Ryo Satriagung Hidayat
 major    : Information System | UIN Sunan Ampel Surabaya
 focus    : Web Developer in Progress
 currently: Building projects & leveling up every day 🚀
+
 ```
 
 ---
+🌐 Portfolio
+https://ryo-s-portofolio.vercel.app/
 
 ## 🛠️ Core Skills
 
